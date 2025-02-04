@@ -6,7 +6,7 @@ I am a Computer Science graduate with diverse experience across various industri
 
 ## Technical Skills 📚
 
-- **Languages**: Javascript, Python, Typescript
+- **Languages**: Javascript, Python, Typescript, Go
 - **Frameworks & libraries**: React, NextJs, NodeJs, Django, Vue
 - **Tools & platforms**: AWS, Github, Docker, Vercel
 - **Data Science & AI**: Tensorflow, OpenAI, Gemini, Claude
